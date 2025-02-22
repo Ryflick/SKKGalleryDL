@@ -16,7 +16,7 @@ A compact GUI app for downloading images from Sankaku Complex using `gallery-dl`
 ## Usage
 1. Run the app:
    ```bash
-   pythonw sankaku_downloader.pyw
+   pythonw gallery-dl_SankakuDownloader.pyw
 
 Or.. you can just simply double click the gallery-dl_SankakuDownloader.pyw and it'll open itself.
 
